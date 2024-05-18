@@ -1,7 +1,7 @@
-![image](https://www.google.com/imgres?q=data%20analysis%20background%20image&imgurl=https%3A%2F%2Fimages.shiksha.com%2Fmediadata%2FshikshaOnline%2Fmailers%2F2021%2Fnaukri-learning%2Foct%2F27oct%2Fwhat-is-data-analyst.jpg&imgrefurl=https%3A%2F%2Fwww.shiksha.com%2Fonline-courses%2Fwhat-is-data-analyst-dg439&docid=m3pacOCD0NjwUM&tbnid=CNgyvhup00nzhM&vet=12ahUKEwjX2qjAvpaGAxVkavUHHYICAtMQM3oECFYQAA..i&w=1439&h=729&hcb=2&ved=2ahUKEwjX2qjAvpaGAxVkavUHHYICAtMQM3oECFYQAA)
+![image](https://github.com/keshavind02/keshavind02/blob/main/download.jfif)
 <h1 align="center">Hi 👋, I'm Keshav Kumar</h1>
 <h3 align="center">Data Analysis from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavind02&label=Profile%20views&color=0e75b6&style=flat" alt="keshavind02" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
